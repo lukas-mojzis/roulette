@@ -1,6 +1,8 @@
 # Roulette
 Simple text-based simulator of the gambling game roulette written in Python.
 
+![Roulette Demo](https://github.com/lukas-mojzis/roulette/blob/main/demo.gif "Roulette Demo")
+
 ## Getting Started
 You need to install [Python](https://www.python.org/) (version 3.9 or above) to run the game.
 
@@ -22,9 +24,6 @@ For an explanation of the rules, please refer to the Wikipedia article on roulet
 - You start the game with $1,000.
 
 After each spin, your bet is evaluated. If you lose and have no more money left, the game ends. Otherwise, you are asked whether you want to play another spin. Leave the casino with enough money and you will earn a highscore record!
-
-## Demo
-![Roulette Demo](https://github.com/lukas-mojzis/roulette/blob/main/demo.gif "Roulette Demo")
 
 ## Contributing
 Any feedback, suggestions and pull requests are welcome!
