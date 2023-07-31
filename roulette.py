@@ -1,7 +1,3 @@
-# Rules and terminology are based on https://en.wikipedia.org/wiki/Roulette#Rules_of_play_against_a_casino
-# Single-zero (European-style) wheel is used
-# Where rules may differ between casinos, only one option was chosen
-
 import random, math, time, datetime
 
 class Player:
