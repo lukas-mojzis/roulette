@@ -17,8 +17,9 @@ In some cases (such as when asked how much money you would like to bet), no list
 
 ## Rules Overview
 For an explanation of the rules, please refer to the Wikipedia article on roulette (mainly the [top section](https://en.wikipedia.org/wiki/Roulette), [rules of play against a casino](https://en.wikipedia.org/wiki/Roulette#Rules_of_play_against_a_casino), [types of bets](https://en.wikipedia.org/wiki/Roulette#Types_of_bets) and [bet odds table](https://en.wikipedia.org/wiki/Roulette#Bet_odds_table)). In addition to that, please consider the following:
-- The game uses a single-zero (European-style) wheel.
+- There are no other players than you.
 - You can place only one bet on each spin.
+- The game uses a single-zero (European-style) wheel.
 - The minimum bet is $1. No maximum bet limit is imposed.
 - If you bet on low/high, red/black or even/odd numbers, you lose only half of your bet if a zero is drawn.
 - You start the game with $1,000.
