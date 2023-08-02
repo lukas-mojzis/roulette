@@ -1,7 +1,7 @@
 # Roulette
 Simple text-based simulator of the gambling game roulette written in Python.
 
-![Roulette Demo](https://github.com/lukas-mojzis/roulette/blob/main/demo.gif "Roulette Demo")
+![Roulette Demo](https://github.com/lukas-mojzis/roulette/blob/main/demo_v2.gif "Roulette Demo")
 
 ## Getting Started
 You need to install [Python](https://www.python.org/) (version 3.9 or above) to run the game.
